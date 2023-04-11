@@ -28,7 +28,7 @@
 
 - A rails API app that displays a random message converted into JSON format that is connect to the front end UI.
 
-Here is the front end repo (link)[https://github.com/keebot-png/hello-rails-front-end] that displays data that is fetched in the User interface.
+Here is the front end repo [link](https://github.com/keebot-png/hello-rails-front-end) that displays data that is fetched in the User interface.
 
 ## 🛠 Built With <a name="built-with"></a>
 
